@@ -1,0 +1,39 @@
+/target
+/build
+/output
+/out
+*/target
+*/build
+*/output
+*/out
+.idea
+.project
+.svn
+# Eclipse
+.classpath
+.project
+.settings/
+# Intellij
+.idea/
+*.iml
+*.iws
+*.class
+*.ipr
+
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+dependency-reduced-pom.xml
+logs/
+*.ipr
+*.iws
+*.swp
+*.class
+*.out
+*.log
+*.bak
+bp
+*.DS_Store
